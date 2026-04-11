@@ -1,0 +1,2 @@
+Halo ini adalah contoh file besar untuk percobaan stream di Node.js.
+Data ini akan dibaca per potongan kecil.
